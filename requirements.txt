@@ -1,0 +1,6 @@
+pytest==7.4.0
+pytest-dependency==0.5.1
+pytest-html==3.2.0
+pytest-metadata==3.0.0
+requests==2.31.0
+selenium==4.10.0
